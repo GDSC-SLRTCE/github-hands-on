@@ -51,7 +51,11 @@
       "name": "Ankita Upadhyay",
       "imageURL": "https://raw.githubusercontent.com/ankita2002/Resume-using-bootstap/main/ankita.jpg",
       "about": "General Secretary, AI Head, Project Lead at SLRTCE"
+    },
+    {
+      "name": "Sai Ashish",
+      "imageURL": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80",
+      "about": "GDSC Lead, Advisor for Tech Clubs at SLRTCE"
     }
-
   ]
 }
