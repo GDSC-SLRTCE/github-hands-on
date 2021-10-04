@@ -56,6 +56,11 @@
       "name": "Sai Ashish",
       "imageURL": "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1974&q=80",
       "about": "GDSC Lead, Advisor for Tech Clubs at SLRTCE"
+    },
+    {
+      "name": "Darsh Jain",
+      "imageURL": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-dsc/avatars/darsh_jain.jpeg",
+      "about": "GDSC Cybers Security and Blockchain Lead"
     }
   ]
 }
