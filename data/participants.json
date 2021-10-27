@@ -8,8 +8,8 @@
 
     {
       "name": "Deepanshu Yadav",
-      "imageURL": "https://www.wallpapers13.com/wp-content/uploads/2016/01/Sunset-Background-Images-Hd-Sunset-background-images-hd-07329-1920x1440.jpg",
-      "about": "A member of GDSC SLRTCE"
+      "imageURL": "https://avatars.githubusercontent.com/u/59260686?v=4",
+      "about": "Member of GDSC and CodeYantra Team at SLRTCE"
     }, 
     {
       "name": "Amey Bhavsar",
@@ -61,10 +61,17 @@
       "name": "Darsh Jain",
       "imageURL": "https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-dsc/avatars/darsh_jain.jpeg",
       "about": "GDSC Cybers Security and Blockchain Lead"
-    },{
+    },
+    {
+      "name": "Ankit Upadhyay",
+      "imageURL": "https://avatars.githubusercontent.com/u/72919994?v=4",
+      "about": "A member of GDSC SLRTCE"
+    },
+    {
       "name": "Vinay Kureel",
       "imageURL": "https://pbs.twimg.com/profile_images/1257280933557710850/95taFO3E_400x400.jpg",
       "about": "A member of GDSC SLRTCE"
     } 
+      
   ]
 }
